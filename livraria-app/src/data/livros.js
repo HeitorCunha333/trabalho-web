@@ -1,0 +1,58 @@
+const livros = [
+  {
+    id: 1,
+    titulo: "O Senhor dos Anéis",
+    autor: "J.R.R. Tolkien",
+    genero: "Fantasia",
+    ano: 1954,
+    paginas: 1200,
+    descricao: "A história épica de Frodo Bolseiro e sua jornada para destruir o Um Anel e salvar a Terra-Média do Senhor das Trevas Sauron.",
+  },
+  {
+    id: 2,
+    titulo: "Harry Potter e a Pedra Filosofal",
+    autor: "J.K. Rowling",
+    genero: "Fantasia",
+    ano: 1997,
+    paginas: 223,
+    descricao: "Um jovem bruxo descobre seu destino ao ingressar na Escola de Magia e Bruxaria de Hogwarts.",
+  },
+  {
+    id: 3,
+    titulo: "1984",
+    autor: "George Orwell",
+    genero: "Distopia",
+    ano: 1949,
+    paginas: 328,
+    descricao: "Um retrato perturbador de uma sociedade totalitária onde o Grande Irmão vigia todos os cidadãos.",
+  },
+  {
+    id: 4,
+    titulo: "Dom Casmurro",
+    autor: "Machado de Assis",
+    genero: "Romance",
+    ano: 1899,
+    paginas: 256,
+    descricao: "Bentinho relata sua vida e seu amor por Capitu, levantando a dúvida que persiste até hoje.",
+  },
+  {
+    id: 5,
+    titulo: "O Alquimista",
+    autor: "Paulo Coelho",
+    genero: "Ficção",
+    ano: 1988,
+    paginas: 208,
+    descricao: "Santiago, um pastor andaluz, parte em busca de um tesouro e encontra o significado da vida.",
+  },
+  {
+    id: 6,
+    titulo: "A Revolução dos Bichos",
+    autor: "George Orwell",
+    genero: "Sátira",
+    ano: 1945,
+    paginas: 112,
+    descricao: "Uma fábula política onde os animais de uma fazenda se rebelam contra os humanos.",
+  },
+];
+
+export default livros;
